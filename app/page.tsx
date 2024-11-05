@@ -1,4 +1,4 @@
-import Banner from '@/Components/Header/Banner/Banner'
+import Banner from '@/Components/Banner/Banner'
 import React from 'react'
 
 export default function Home() {
