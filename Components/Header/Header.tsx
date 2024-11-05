@@ -8,7 +8,7 @@ export default function Header() {
         <div className='w-[242px] flex py-[11] items-center text-white px-7'>
           <h1>
             <Image
-              src={"/Images/Logo.png"}
+              src={"/images/Logo.png"}
               alt='Logo Image'
               height={70}
               width={63}
@@ -37,7 +37,7 @@ export default function Header() {
           <div className='flex gap-[38px]'>
             <p>
               <Image
-                src={"/Images/heart.png"}
+                src={"/images/heart.png"}
                 alt='heart-icon'
                 width={33}
                 height={29}
@@ -45,14 +45,14 @@ export default function Header() {
             </p>
             <p>
               <Image
-                src={"/Images/user.png"}
+                src={"/images/user.png"}
                 alt='user-icon'
                 width={29}
                 height={28}
               />
             </p> <p>
               <Image
-                src={"/Images/cart.png"}
+                src={"/images/cart.png"}
                 alt='cart-icon'
                 width={38}
                 height={30}

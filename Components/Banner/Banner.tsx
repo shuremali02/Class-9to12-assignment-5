@@ -8,7 +8,7 @@ export default function Banner() {
             <Header />
             <div className='flex flex-col gap-y-5 md:flex-row md:justify-between h-[80%] m-5 md:m-14 '>
                 <div className='w-full  h-[573px] bg-cover bg-center md:hidden justify-center flex items-center rounded-tl-[128px] rounded-br-[128px]'
-                    style={{ backgroundImage: `url('/Images/banner_2.png')` }}
+                    style={{ backgroundImage: `url('/images/banner_2.png')` }}
                 >
                     <div className='w-[380px] h-[525px]  border border-5 m-5 border-white rounded-tl-[128px] rounded-br-[128px]'></div>
                 </div>
@@ -23,7 +23,7 @@ export default function Banner() {
                         Explore Now</button>
                 </div>
                 <div className='w-[421px] h-[573px] bg-cover bg-center hidden md:flex justify-center items-center rounded-tl-[128px] rounded-br-[128px]'
-                    style={{ backgroundImage: `url('/Images/banner_2.png')` }}
+                    style={{ backgroundImage: `url('/images/banner_2.png')` }}
                 >
                     <div className='w-[380px] h-[525px]  border border-5 m-5 border-white rounded-tl-[128px] rounded-br-[128px]'>
 
